@@ -2,7 +2,7 @@
 Vote choice in the 2014 Scottish independence referendum estimated at the UK Parliamentary Constituency level. 
 
 Official 2014 Scottish independence referendum results are only available at the local authority level (LA) and most UK Parliamentary Constituencies in Scotland are spread across multiple Local Authorities. 
-This dataset contains estimations for these results at the 2024 UK Parliamentary Constituency level. These are created by assigning LA results to smaller geographical units - Data Zones - and averaging these out at the constituency level with weights for turnout and population. 
+This dataset contains estimations for these results at the 2024 UK Parliamentary Constituency level. These are created by assigning LA results to smaller geographical units - Data Zones - and averaging these at the constituency level with weights for turnout and population. 
 
 Citation: Miori, Marta (2024). Notional 2014 Scottish independence referendum results for 2024 UK Constituencies. University of Manchester. Dataset. https://doi.org/10.48420/26340568
 
