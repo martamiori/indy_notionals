@@ -28,6 +28,7 @@ library(readxl)
                   Council == "Dundee" ~ "Dundee City",
                   Council == "Edinburgh" ~ "City of Edinburgh",
                   Council == "Elian Siar" ~ "Na h-Eileanan Siar",
+                  Council == "Eilean Siar" ~ "Na h-Eileanan Siar",  
                   Council == "Glasgow" ~ "Glasgow City",
                   TRUE ~ Council
                 )
